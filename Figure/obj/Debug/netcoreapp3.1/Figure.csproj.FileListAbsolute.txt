@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\SnakeOOPgame\Figure\obj\Debug\netcoreapp3.1\Figure.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\SnakeOOPgame\Figure\obj\Debug\netcoreapp3.1\Figure.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\SnakeOOPgame\Figure\obj\Debug\netcoreapp3.1\Figure.AssemblyInfo.cs
+C:\Users\opilane\source\repos\SnakeOOPgame\Figure\obj\Debug\netcoreapp3.1\Figure.csproj.CoreCompileInputs.cache
